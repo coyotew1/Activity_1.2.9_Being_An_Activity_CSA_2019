@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
+application
+ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\22sulwes\.android\build-cache\d8f05068380d61303cbe82ac596dd3a769e270ca\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.hfad.stopwatch.StopwatchActivity
+ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:12:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\22sulwes\.android\build-cache\d8f05068380d61303cbe82ac596dd3a769e270ca\output\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\22sulwes\CSA\GIT\Activity_1.2.9_Being_An_Activity_CSA_2019\app\src\main\AndroidManifest.xml
